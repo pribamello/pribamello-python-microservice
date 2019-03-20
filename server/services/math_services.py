@@ -50,4 +50,4 @@ def calculate_mean(integer_list):
 
     my_array = list_to_array(integer_list)
     mean = my_array.mean()
-return mean
+    return mean
